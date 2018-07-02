@@ -1,3 +1,5 @@
 ipod
 ipod touch
-itunes
+itunes 
+internet browser safari
+
